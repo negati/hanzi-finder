@@ -1,0 +1,14 @@
+
+# Downloaded source dictionaries
+data/cedict_ts.u8
+data/common3500.txt
+data/makemeahanzi.txt
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
